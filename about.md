@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-feature-img: "img/desktop.jpg"
+feature-img: "img/mac.jpg"
 description: Ryan's education, the purpose of his website, and contact information.
 ---
 
