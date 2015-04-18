@@ -1,14 +1,65 @@
-# Site settings
-title: Ryan Beckett
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+# SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://whoisryanbeckett.com" # the base hostname & protocol for your site
-twitter_username: Ryan_Beckett_
-github_username:  RyanBeckett
+url: "http://example.com" # the base hostname & protocol for your site
 
-# Build settings
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: Ryan Beckett
+  avatar: logo.png
+  gravatar: # Email MD5 hash
+  description: "Ryan Beckett is a software engineer in Belfast, Northern Ireland. This is a blog of his findings and experiences developing software as a profession and hobby." # used by search engines
+
+  # Header and footer text
+  footer_text: >
+   <p>Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
+   <p>Copyright © Ryan Beckett 2015.</p>
+
+  # Icons
+  rss: false
+  email_address: # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "RyanBeckett"
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "Ryan_Beckett_"
+  wordpress:
+  youtube:
+
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
+
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  str_next: "Next"
+  str_prev: "Prev"
+  str_continue_reading: "Continue reading"
+
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+
+# PAGINATION
+paginate: 5
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
 markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
