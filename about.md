@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: About
 permalink: /about/
 feature-img: "img/mac.jpg"
 description: Ryan's education, the purpose of his website, and contact information.
