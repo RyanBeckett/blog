@@ -14,6 +14,8 @@ I am software engineer currently living in Belfast, Northern Ireland with a pass
 #### Experience
 I have taken part and been involved in teaching the [Kainos CodeCamp](http://codecamp.kainos.com/) scheme. This scheme aimed to teach 17-19 year olds how to create Android applications using MIT AppInventor. The camp was a great success, with the students not only learning new programming skills, but getting first hand experience in key subjects such as UX design, iOS application development and source control.
 
+During the summer of 2014 I volunteered as a Test Engineer Intern for [TheAppBuilder](http://www.theappbuilder.com/). I worked as part of a small team performing testing procedures on mobile applications and ensuring that all errors were identified and corrected before release to clients.
+
 
 #### Contact
 If you're interested in getting in touch please reach out at anytime either by <a href="mailTo:BeckettRyan@iCloud.com">email</a> or [Twitter](https://twitter.com/Ryan_Beckett_).
