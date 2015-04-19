@@ -6,6 +6,13 @@ article,
   width: 100%;
 }
 article {
+  img {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 1em; 
+  }
   header {
     margin-bottom: 6%;
     text-align: center;
