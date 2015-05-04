@@ -4,7 +4,8 @@ title: "Welcome!"
 date: 2015-05-04 11:44:00
 author: Ryan Beckett
 categories:
-- blog
+  - Update
+  - Blog
 img: post01.jpg
 thumb: thumb01.jpg
 ---
