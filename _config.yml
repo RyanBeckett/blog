@@ -1,65 +1,89 @@
-# SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://whoisryanbeckett.com" # the base hostname & protocol for your site
+### GENERAL SETTINGS ###
 
-# THEME-SPECIFIC CONFIGURATION
-theme:
-  # Meta
-  title: Ryan Beckett
-  avatar: logo.png
-  gravatar: # Email MD5 hash
-  description: "Ryan Beckett is a software engineer in Belfast, Northern Ireland. This is a blog of his findings and experiences developing software as a profession and hobby." # used by search engines
+# Site settings
+title: Ryan Beckett
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://whoisryanbeckett.com"
 
-  # Header and footer text
-  footer_text: >
-   <p>Powered by <a href="http://jekyllrb.com">Jekyll</a></p>
-   <p>Copyright © Ryan Beckett 2015.</p>
-
-  # Icons
-  rss: false
-  email_address: BeckettRyan@icloud.com
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "RyanBeckett"
-  google_plus:
-  instagram:
-  linkedin: https://uk.linkedin.com/in/mrbeckett
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "Ryan_Beckett_"
-  wordpress:
-  youtube:
-
-  # Scripts
-  google_analytics: "UA-620620970-1"
-  disqus_shortname:
-  katex: true # Enable if using math markup
-
-  # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
-  str_next: "Next"
-  str_prev: "Prev"
-  str_continue_reading: "Continue reading"
-
-  # Colours, typography and padding
-  # Open the "_sass > base" folder, and open "_variables.scss"
-
-# PAGINATION
-paginate: 5
-paginate_path: "blog/page:num"
-
-# BUILD SETTINGS
+# Build settings
 markdown: kramdown
-highlighter: pygments
-sass:
-  sass_dir: _sass
-  style: :compressed
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#00b3fe" #"#F70031"
+  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#384452" #"#33004D"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: twitter
+    url: http://twitter.com/Ryan_Beckett_
+  - title: linkedin
+    url: https://uk.linkedin.com/in/mrbeckett
+  - title: github
+    url: https://github.com/RyanBeckett
+  - title: google-plus
+    url: https://plus.google.com/u/0/+RyanBeckett/
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - Some Ave, 987,
+    - 23890, New York,
+    - United States.
+email: RyanBeckett01@gmail.com
+tel:
+
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+
+# Members information. Shown on About page.
+members:
+  - name: Test Test
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: dribbble
+    img: client01.png
+  - name: Code is Poetry
+    img: client02.png
+  - name: Vimeo
+    img: client03.png
+  - name: VimeoPro
+    img: client04.png
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+
+# Testimonial content. Shown on About page.
+testimonial:
+    message: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
+    author: Martin Fowler
