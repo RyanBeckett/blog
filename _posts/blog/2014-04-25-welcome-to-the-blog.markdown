@@ -10,7 +10,7 @@ thumb: thumb01.jpg
 ---
 
 Welcome to my Blog, my name is Ryan Beckett. I hope to share with you through this blog a little about me and my experiences as I develop from a student, to a full-fledged software engineer. As a disclaimer all posts are based on my own views.
-
+<!--more-->
 
 ####Who am I?
 I am student software engineer currently living in Belfast, Northern Ireland with a passion for mobile development.
