@@ -43,7 +43,6 @@ p {
 	font-size: 14px;
 	line-height: 24px;
 	color: {{ site.colors.secondary }};
-	margin-top: 10px;
 }
 
 img {

@@ -9,23 +9,22 @@ img: post01.jpg
 thumb: thumb01.jpg
 ---
 
-Welcome to 'WhoIsRyanBeckett.com'. This is a blog about me sharing my knowledge and
-
-<b>Lorem Ipsum</b> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. <!--more-->
-It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-Contrary to popular belief, <b>Lorem Ipsum is not simply random text</b>. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at [Hampden-Sydney College][hampden] in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.<
-
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-####Why do we use it?
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
+Welcome to my Blog, my name is Ryan Beckett. I hope to share with you through this blog a little about me and my experiences as I develop from a student, to a full-fledged software engineer. As a disclaimer all posts are based on my own views.
 
 
->Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+####Who am I?
+I am student software engineer currently living in Belfast, Northern Ireland with a passion for mobile development.
+Most of my days are spent studying for a Bachelors in Software Engineering at [Ulster University][Ulster], Jordanstown. Outside of computing I enjoy a range of things. Such as anything fitness related, longboarding and spending time on beaches.
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
+Hackathon's are another infatuation of mine, there are a few reasons for this. There’s always an incredible atmosphere. This really brings about this positive energy in everyone which is a really good motivator for the 'hack', and a great motivator after the 'hack'. They are a fantastic way of learning as you get a chance to play with new technologies that you may not have access to; they also allow experience to passed on from one to another. This really touches on core area of Software engineering. This is a really engaging way to learn as it's practical.
 
+Now that's a little about myself. If you would like to know more please read the [About me][aboutme] page
+
+####Why?
+Possibly the most important thing in this post. Why have I decided to blog?
+I would like to spend my time blogging and (hopefully) soon contributing to open source projects on Github as I feel an ethical obligation. Free and open collaboration on the web is the foundation of my own knowledge; and to contribute back to this would hopefully then allow the same, if not better opportunities that I have been fortunate enough to have over the past two years to someone else.
+
+
+[aboutme]: /about/
+[Ulster]: http://www.ulster.ac.uk
 [hampden]: https://github.com/jekyll/jekyll
