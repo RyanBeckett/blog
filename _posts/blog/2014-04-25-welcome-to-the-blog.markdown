@@ -17,7 +17,7 @@ Welcome to my Blog, my name is Ryan Beckett. I hope to share with you through th
 I am student software engineer currently living in Belfast, Northern Ireland with a passion for mobile development.
 Most of my days are spent studying for a Bachelors in Software Engineering at [Ulster University][Ulster], Jordanstown. Outside of computing I enjoy a range of things such as anything fitness related, longboarding and spending time on beaches.
 
-Hackathons are another infatuation of mine, there are a few reasons for this. There’s always an incredible atmosphere. This really brings about a positive energy in everyone which is a really good motivator for the 'hack', and a great motivator after the 'hack'. They are a fantastic way of learning as you get a chance to play with new technologies that you may not have access to; they also allow experience to be passed on from one another. This really touches on core area of Software engineering, plus it's a really engaging way to learn as it's practical.
+I honestly love hackathons. They always being about an incredible atmosphere, which in turn brings about a positive energy in everyone which is a really good motivator for the 'hack', and a great motivator after the 'hack'. They are a great way of learning as you get a chance to play with new technologies that you may not have access to. Can improve your workflow. Allows experience to be passed on from one another and most importantly, build something cool.
 
 Now that's a little about myself. If you would like to know more please read the [About me][aboutme] page
 
