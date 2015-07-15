@@ -15,16 +15,15 @@ Welcome to my Blog, my name is Ryan Beckett. I hope to share with you through th
 
 ####Who am I?
 I am student software engineer currently living in Belfast, Northern Ireland with a passion for mobile development.
-Most of my days are spent studying for a Bachelors in Software Engineering at [Ulster University][Ulster], Jordanstown. Outside of computing I enjoy a range of things such as anything fitness related, longboarding and spending time on beaches.
+Most of my days are spent studying for a Bachelors in Software Engineering at [Ulster University][Ulster], Jordanstown.
 
-I honestly love hackathons. They always being about an incredible atmosphere, which in turn brings about a positive energy in everyone which is a really good motivator for the 'hack', and a great motivator after the 'hack'. They are a great way of learning as you get a chance to play with new technologies that you may not have access to. Can improve your workflow. Allows experience to be passed on from one another and most importantly, build something cool.
+One of my favorite things todo are hackathons. They always being about an incredible atmosphere, which in turn brings about a positive energy in everyone. This is a really good motivator for the 'hack', and a great motivator after the 'hack'. It's also a great way of learning as you get a chance to play with new technologies that you may not have access to and/or the experience to use. It allows experience to be passed on from one developer to another and most importantly, you build something cool as a team.
 
-Now that's a little about myself. If you would like to know more please read the [About me][aboutme] page
-
-####Why?
+####Why the blog?
 Possibly the most important thing in this post. Why have I decided to blog?
-I would like to spend my time blogging and (hopefully) soon contributing to open source projects on Github as I feel an ethical obligation. Free and open collaboration on the web is the foundation of my own knowledge; and to contribute back to this would hopefully then allow the same, if not better opportunities that I have been fortunate enough to have over the past two years to someone else.
+I would like to spend my time blogging and hopefully soon contributing to open source projects on Github as I feel an ethical obligation. Free and open collaboration on the web is the foundation of my own knowledge; and to contribute back to this would hopefully then allow the same, if not better opportunities that I have been fortunate enough to have over the past two years to someone else.
 
+Thanks for reading the unofficial first blog post. Feel free to have a look around the rest of the website. 
 
 [aboutme]: /about/
 [Ulster]: http://www.ulster.ac.uk
