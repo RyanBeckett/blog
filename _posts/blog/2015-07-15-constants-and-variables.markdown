@@ -9,7 +9,7 @@ img: swiftb.jpg
 thumb: swift.jpg
 ---
 
-Constants and variables in Swift are simply ways in which we can store data. In Swift a 'constant' is a variable whose values cannot be changed after its been declared. On the other hand, a variable's value can be changed but you cannot assign it a new type. Now let's look at how we declare these.
+Constants and variables in Swift are simply ways in which we can store data. In Swift a 'constant' is a variable whose values cannot be changed after its been declared. On the other hand, a variable's value can be changed. Note for neither of these can you assign a new type. Now let's look at how we declare these.
 <!--more-->
 
 We use the word "let" to declare a constant in Swift:
