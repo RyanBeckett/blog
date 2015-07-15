@@ -14,34 +14,41 @@ Constants and variables in Swift are simply ways in which we can store data. In 
 
 We use the word "let" to declare a constant in Swift:
 
-```Swift
+```
   let placeOfBirth = "Belfast, Northern Ireland"
 ```
 
 For a variable we use "var":
 
-```Swift
+```
 var livingIn = "Banbridge, Northern Ireland"
+```
+
+```
 var age = 19
 ```
 
 When we declared each of these, Swift automatically defined their types based on what values we passed in when declaring them. Now, lets say we want to explicitly tell Swift what types of values we what to store. This is called 'Type Annotations'. Let's use the same examples as before to explain.
 
-```Swift
-//Before
-//let placeOfBirth = "Belfast, Northern Ireland"
-//var livingIn = "Banbridge, Northern Ireland"
-//var age = 19
-
-//After
+```
 let placeOfBirth: String = "Belfast, Northern Ireland"
+```
+
+```
 var livingIn: String = "Banbridge, Northern Ireland"
+```
+
+```
 var age: Int = 19
 ```
+
 Copy and paste the above code into a playground. Below it try and change the value of livingIn and placeOfBirth to your age, mobile number or anything that has a number. Eg:
 
-```Swift
+```
 livingIn = 09883657496
+```
+
+```
 placeOfBirth = 14
 ```
 
