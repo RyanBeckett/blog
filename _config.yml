@@ -87,3 +87,6 @@ about: "Lorem Ipsum is simply dummy text of the printing and typesetting industr
 testimonial:
     message: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
     author: Martin Fowler
+
+gems:
+  - jekyll-redirect-from
