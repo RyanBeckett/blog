@@ -5,6 +5,7 @@ date: 2015-07-15 22:00:00
 author: Ryan Beckett
 categories:
   - Swift
+  - Blog
 img: swiftb.jpg
 thumb: swift.jpg
 ---

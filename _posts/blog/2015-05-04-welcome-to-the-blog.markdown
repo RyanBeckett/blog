@@ -23,7 +23,7 @@ One of my favorite things todo are hackathons. They always being about an incred
 Possibly the most important thing in this post. Why have I decided to blog?
 I would like to spend my time blogging and hopefully soon contributing to open source projects on Github as I feel an ethical obligation. Free and open collaboration on the web is the foundation of my own knowledge; and to contribute back to this would hopefully then allow the same, if not better opportunities that I have been fortunate enough to have over the past two years to someone else.
 
-Thanks for reading the unofficial first blog post. Feel free to have a look around the rest of the website. 
+Thanks for reading the unofficial first blog post. Feel free to have a look around the rest of the website.
 
 [aboutme]: /about/
 [Ulster]: http://www.ulster.ac.uk
