@@ -44,7 +44,7 @@ var livingIn: String = "Banbridge, Northern Ireland"
 var age: Int = 19
 ```
 
-Copy and paste the above code into a playground. Below it try and change the value of livingIn and placeOfBirth to your age, mobile number or anything that has a number. Eg:
+Now copy and paste the above code into a playground or [click here][SS1] to use Swift Stub. Below it try and change the value of livingIn and placeOfBirth to your age, mobile number or anything that has a number. Eg:
 
 ```
 livingIn = 09883657496
@@ -60,5 +60,5 @@ Now you might be asking yourself, Ryan then why did we get an error for "placeOf
 You are correct this is not a constant, even though we are trying to changes it's value; which we are allowed todo with a variable but we are also trying to change it's type from a 'String', to an 'Int' and this is why we are getting the error.
 
 Hopefully this helps with constants and variables in Swift.
-
+[SS1]:http://swiftstub.com/758337396/?v=gm
 [joke]: http://treasure.diylol.com/uploads/post/image/394172/resized_jesus-says-meme-generator-10-points-for-gryffindor-caef09.jpg
