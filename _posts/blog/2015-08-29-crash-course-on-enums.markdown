@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java: Crash Course in Enums"
+title: "Java: Crash Course on Enums"
 date: 2015-08-29 21:30:00
 author: Ryan Beckett
 categories:
