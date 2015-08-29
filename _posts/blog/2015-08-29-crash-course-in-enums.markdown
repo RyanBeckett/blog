@@ -8,7 +8,7 @@ categories:
   - Programming
   - Blog
 img: javab.jpg
-thumb: Java.jpg
+thumb: java.jpg
 ---
 
 
