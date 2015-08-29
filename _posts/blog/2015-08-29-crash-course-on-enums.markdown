@@ -96,8 +96,8 @@ public class EnumExample {
 #### Output:
 
 ~~~~~~
-S
-E
+N
+W
 ~~~~~~
 
 ### Enum vs Constant Class
