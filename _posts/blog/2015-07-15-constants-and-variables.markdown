@@ -16,43 +16,31 @@ Constants and variables in Swift are simply ways in which we can store data. In 
 
 We use the word "let" to declare a constant in Swift:
 
-```
+~~~~~~
   let placeOfBirth = "Belfast, Northern Ireland"
-```
+~~~~~~
 
 For a variable we use "var":
 
-```
-var livingIn = "Banbridge, Northern Ireland"
-```
-
-```
-var age = 19
-```
+~~~~~~
+  var livingIn = "Banbridge, Northern Ireland"
+  var age = 19
+~~~~~~
 
 When we declared each of these, Swift automatically defined their types based on what values we passed in when declaring them. Now, lets say we want to explicitly tell Swift what types of values we what to store. This is called 'Type Annotations'. Let's use the same examples as before to explain.
 
-```
-let placeOfBirth: String = "Belfast, Northern Ireland"
-```
-
-```
-var livingIn: String = "Banbridge, Northern Ireland"
-```
-
-```
-var age: Int = 19
-```
+~~~~~~
+  let placeOfBirth: String = "Belfast, Northern Ireland"
+  var livingIn: String = "Banbridge, Northern Ireland"
+  var age: Int = 19
+~~~~~~
 
 Now copy and paste the above code into a playground or [click here][SS1] to use Swift Stub. Below it try and change the value of livingIn and placeOfBirth to your age, mobile number or anything that has a number. Eg:
 
-```
-livingIn = 09883657496
-```
-
-```
-placeOfBirth = 14
-```
+~~~~~~
+  livingIn = 09883657496
+  placeOfBirth = 14
+~~~~~~
 
 You will get an error for both. If you've been switched on, you should have known already that the constant "placeOfBirth" would not have changed as I have already told you that it's "a variable whose values cannot be changed after its been declared". So if you noticed that, then [well done][joke]!
 
