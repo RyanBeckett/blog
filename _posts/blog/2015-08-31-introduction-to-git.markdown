@@ -31,7 +31,13 @@ Now open your CLI and change our directory to your project folder, for this exam
 Command:
 
 ```
-cd Desktop/Super\ Secret\ Project/ or cd Desktop/website/
+cd Desktop/Super\ Secret\ Project/
+```
+
+or
+
+```
+cd Desktop/website/
 ```
 
 _Note: Windows use "\" instead of "/" for directories._ Now that we are inside are project folder we can get started. We need to initialize a Git repository. We do this by simply typing in:
@@ -43,6 +49,8 @@ git init
 ```
 
 As it's told us our 'Super Secret Project' is now an empty Git repository, great. Now it's time to learn another git command, this will be your most used git command:
+
+Command:
 
 ```
 git status
@@ -77,7 +85,11 @@ Let's now add are NuclearCodes.txt to our Stage and commit the changes so it's '
 Commands:
 
 ```
-git add NuclearCodes.txt git commit -m "Added NuclearCodes.txt"
+git add NuclearCodes.txt
+```
+
+```
+git commit -m "Added NuclearCodes.txt"
 ```
 
 Done! Now this is all well and good, but let's think big for a minute. In a 'real' project we would have 100's if not 1000's of files and it would be **very** tedious to add all of them separately. So I'm going to show you two different ways to add multiple files with one command.
@@ -128,11 +140,15 @@ Finally, we are going to move onto branching. Branching allows you to create a c
 
 Let's create a new branch called "clean_up". Even though I just taught you the two main reasons to use branching, I am going to use neither. We are dong this to keep this as simple and as easy to understand as possible. Enter this:
 
+Command:
+
 ```
 git branch clean_up
 ```
 
 The branch has been created, but we aren't inside it. So, let's switch to this branch:
+
+Command:
 
 ```
 git checkout clean_up
@@ -140,7 +156,7 @@ git checkout clean_up
 
 The public have found out about the 'Super Secret Project', so let's delete everything in this branch, commit it, merge it with the main branch and then delete the "clean_up" branch. Even though in source control you can revert back to previous commits, but let's hope they don't know source control.
 
-Type:
+Commands:
 
 ```
 git rm *
@@ -152,7 +168,7 @@ git push origin clean_up
 
 Even though we've committed and pushed these changes, they are not in the main branch. Let's merge these changes to the main branch, delete the "clean_up" branch locally, then on GitHub (or whatever service you have used) and then push all these changes.
 
-Type:
+Commands:
 
 ```
 git checkout master
