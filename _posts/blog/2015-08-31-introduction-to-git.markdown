@@ -30,14 +30,16 @@ Now open your CLI and change our directory to your project folder, for this exam
 
 Command:
 
+Mac:
+
 ```
 cd Desktop/Super\ Secret\ Project/
 ```
 
-or
+Windows:
 
 ```
-cd Desktop/website/
+cd "Desktop\Super Secret Project"
 ```
 
 _Note: Windows use "\" instead of "/" for directories._ Now that we are inside are project folder we can get started. We need to initialize a Git repository. We do this by simply typing in:
@@ -64,7 +66,7 @@ Let's break this down. It simply means it checks for differences between your la
 
 I'm going to add a .txt file called NuclearCodes to my project folder. You can do the same or call it something else. It doesn't matter. We then type "git status" again to check for differences and it shows us this.
 
-If we look under 'Untracked files' we can see my "NuclearCodes.txt" appears. For mac (I'm not sure about windows) the "NuclearCodes.txt" shows up in red. Either of these two things tells us this file has not been added to the '_stage_'. This means if we committed are changes now anything under Untracked files' wouldn't be '_saved_'.
+If we look under 'Untracked files' we can see my "NuclearCodes.txt" appears. It also shows up in red. Either of these two things tells us this file has not been added to the '_stage_'. This means if we committed are changes now anything under Untracked files' wouldn't be '_saved_'.
 
 Before we continue let's talk a little about this word "commit". Commit is similar to saving a file, it simply allows us to store our staged changes when we run the commit command with a message describing what we've changed. An example commit is as follows:
 
