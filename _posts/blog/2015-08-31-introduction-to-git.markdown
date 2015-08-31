@@ -42,7 +42,7 @@ Windows:
 cd "Desktop\Super Secret Project"
 ```
 
-_Note: Windows use "\" instead of "/" for directories._ Now that we are inside are project folder we can get started. We need to initialize a Git repository. We do this by simply typing in:
+Now that we are inside are project folder we can get started. We need to initialize a Git repository. We do this by simply typing in:
 
 Command:
 
