@@ -10,7 +10,7 @@ img: gitb.jpg
 thumb: git.jpg
 ---
 
-Up until October 2014 I had always used a Git client for source control. Typically it would have been [SourceTree](https://www.sourcetreeapp.com) or [GitHub Desktop](https://desktop.github.com). It did the job however if i'm honest, quite often I found it difficult to understand what was happening 'under the hood'. I was able to do the fundementals; _push_, _pull_, _branch_ and _merge_ (If you don't know what these terms mean don't panic, I'll be covering some of it later) but it felt like a dumped down version of Git. <!--more--> I often feel like this using a Git client.
+Up until October 2014 I had always used a Git client for source control. Typically it would have been [SourceTree](https://www.sourcetreeapp.com) or [GitHub Desktop](https://desktop.github.com). It did the job however if i'm honest, quite often I found it difficult to understand what was happening 'under the hood'. I was able to do the fundementals; _push_, _pull_, _branch_ and _merge_ (If you don't know what these terms mean don't panic, I'll be covering some of it later) but it felt like a dumbed down version of Git. <!--more--> I often feel like this using a Git client.
 
 ![Baby playing with blocks](http://bayareafamilychildcare.com/wp-content/uploads/2012/02/baby-blocks-2.jpg)
 
