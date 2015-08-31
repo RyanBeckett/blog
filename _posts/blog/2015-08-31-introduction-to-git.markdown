@@ -64,7 +64,7 @@ Let's checkout what the documentation says about "git status". If you ever need 
 
 Let's break this down. It simply means it checks for differences between your last '_commit_' and your current changes (working directory). We will use the git status to keep monitoring the states of both the working directory and the repository. Let's now make a difference, so when we run this command it actually shows us something.
 
-I'm going to add a .txt file called NuclearCodes to my project folder. You can do the same or call it something else. It doesn't matter. We then type "git status" again to check for differences and it shows us this.
+I'm going to add a .txt file called NuclearCodes to my project folder. You can do the same or call it something else. It doesn't matter. We then type "git status" again to check for differences.
 
 If we look under 'Untracked files' we can see my "NuclearCodes.txt" appears. It also shows up in red. Either of these two things tells us this file has not been added to the '_stage_'. This means if we committed are changes now anything under Untracked files' wouldn't be '_saved_'.
 
