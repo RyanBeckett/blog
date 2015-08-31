@@ -88,6 +88,8 @@ Commands:
 git add NuclearCodes.txt
 ```
 
+and
+
 ```
 git commit -m "Added NuclearCodes.txt"
 ```
