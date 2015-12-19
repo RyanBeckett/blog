@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to Git
-date: 2015-08-31T19:10:00.000Z
+date: 2015-08-31 21:30:00
 author: Ryan Beckett
 categories:
   - Source Control
