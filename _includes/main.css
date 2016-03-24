@@ -302,7 +302,7 @@ h4 {
 }
 a {
   color: #222;
-  text-decoration: underline;
+  text-decoration: none;
 }
 p {
   line-height: 1.7;
