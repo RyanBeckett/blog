@@ -14,5 +14,5 @@ jemoji: '<img class="emoji" title=":iphone:" alt=":iphone:" src="data:image/png;
 
 ---
 
-[Check out our work here](https://github.com/theappdevs) here.
+Check out our work, [here](https://github.com/theappdevs).
 The website, [here](http://theappdevs.com/).
