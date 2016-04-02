@@ -6,6 +6,7 @@ tag:
   - Java
   - Programming
 blog: true
+comments: true
 ---
 
 Firstly, we need to discuss what is an enum? Enums provide a convenient way of dealing with sets of values as a list. It acts similarly to a constant class, but it hasn't got the same restrictions that classes do, but we'll cover that later. Let's first look at how to create an enum.
