@@ -1,0 +1,47 @@
+---
+---
+title: "100 Days of Swift"
+layout: post
+date: 2016-04-03 02:15
+tag: jekyll
+img: indigo/indigo.png
+projects: true
+description: "To develop a series of iOS apps using Apple's new programming language, Swift."
+
+jemoji: '<img class="emoji" title=":iphone:" alt=":iphone:" src="data:image/png;base64,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" height="20" width="20" align="absmiddle">'
+---
+
+<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70" >
+# 100 Days of Swift / 40 Swift Projects
+
+Based on Sam Lu's [100 Days of Swift.](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.t6tj3o8ip)
+
+
+The idea is to replicate Sam's initial 40 projects within the 100 days. If I can complete all 40 projects within the 100 days, I am going to add a few of my own projects.
+
+All of the projects will be added to this repository as I complete them.
+
+
+# Projects:
+
+**Project 1 & 2**
+
+![demo1&2](http://s15.postimg.org/hx6ahhrnf/Project1_And2.gif)
+
+
+**Project 3**
+
+![demo3](http://s21.postimg.org/fqs9zib7b/Project_3.gif)
+
+
+**Project 4**
+
+![demo4](http://s16.postimg.org/jbheexpgl/Project_4.gif)
+
+
+**Notes:**
+- Project 1 & 2: Merged together!
+
+---
+
+Star it on [GitHub](https://github.com/RyanBeckett/100-Days-Of-Swift).
