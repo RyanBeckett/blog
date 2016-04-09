@@ -10,6 +10,7 @@ jemoji: '<img class="emoji" title=":iphone:" alt=":iphone:" src="data:image/png;
 ---
 
 <img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="70">
+
 # 100 Days of Swift / 40 Swift Projects
 
 Based on Sam Lu's [100 Days of Swift.](https://medium.com/@samvlu/100-days-of-swift-736d45a19b63#.t6tj3o8ip)
