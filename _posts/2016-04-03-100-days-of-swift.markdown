@@ -19,6 +19,9 @@ The idea is to replicate Sam's initial 40 projects within the 100 days. If I can
 
 All of the projects will be added to this repository as I complete them.
 
+Star it on [GitHub](https://github.com/RyanBeckett/100-Days-Of-Swift).
+
+---
 
 # Projects:
 
