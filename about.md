@@ -13,11 +13,9 @@ permalink: /about/index.html
 
 <p>Summer '14 - Involved in the teaching of the  <a href="https://codecamp.kainos.com/">Kainos CodeCamp</a> scheme. This scheme aimed to teach 17-19 year olds how to create Android applications using MIT AppInventor. Article about me <a href="https://codecamp.kainos.com/meet-mentor/">here</a>.</p>
 
-<p>'14/'15 1<sup>st</sup> year of University - I worked part time at Kainos Software as part of their R&D Team.</p>
-
-<p> <strong>'16/'17 Placement Year - Working at IBM.</strong></p>
-
-<p>Currently: <b>iOS Engineer at <a href="#">Secure Broadcast</a></b></p>
+<p>'14/'15 1<sup>st</sup> Year of University - Part time Software Engineer at Kainos Software</p>
+<p>'16/'17 - IBM Security (University Placement Year)</p>
+<p>Currently: <strong>iOS Engineer at <a href="#">Secure Broadcast</a></strong></p>
 
 
 
