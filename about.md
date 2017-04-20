@@ -28,10 +28,3 @@ permalink: /about/index.html
 	<li>Git</li>
 	<li>PHP</li>
 </ul>
-
-#
-<h2>Projects</h2>
-#<ul>
-#	<li><a href="http://theappdevs.com/">TheAppDevs</a></li>
-#</ul>
-#
