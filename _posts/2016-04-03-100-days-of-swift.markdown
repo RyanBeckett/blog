@@ -2,7 +2,9 @@
 title: "100 Days of Swift"
 layout: post
 date: 2016-04-03 02:15
-tag: jekyll
+tag:
+  - Swift
+  - Programming
 img: indigo/indigo.png
 projects: true
 description: "To develop a series of iOS apps using Apple's new programming language, Swift."
