@@ -15,7 +15,9 @@ permalink: /about/index.html
 
 <p>'14/'15 1<sup>st</sup> year of University - I worked part time at Kainos Software as part of their R&D Team.</p>
 
-<p> <strong>'15/'16 Placement Year - Working at IBM.</strong></p>
+<p> <strong>'16/'17 Placement Year - Working at IBM.</strong></p>
+
+<p>Currently: <b>iOS Engineer at <a href="#">Secure Broadcast</a></b></p>
 
 
 
