@@ -9,7 +9,7 @@ permalink: /about/index.html
 
 <h2>Experience</h2>
 
-<p>Summer '14 - Test Engineer Intern at <a href="http://www.theappbuilder.com/">TheAppBuilder</a>.</p>
+<p>Summer '14 - <strong>Test Engineer Intern</strong> at <a href="http://www.theappbuilder.com/">TheAppBuilder</a>.</p>
 
 <p>Summer '14 - Involved in the teaching of the  <a href="https://codecamp.kainos.com/">Kainos CodeCamp</a> scheme. This scheme aimed to teach 17-19 year olds how to create Android applications using MIT AppInventor. Article here <a href="https://codecamp.kainos.com/meet-mentor/">here</a>.</p>
 
